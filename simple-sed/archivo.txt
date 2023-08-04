@@ -1,0 +1,4 @@
+Este es un ejemplo de texto.
+Vamos a probar algunos reemplazos.
+La palabra buscar debería ser reemplazada.
+Este es otro ejemplo de texto.
